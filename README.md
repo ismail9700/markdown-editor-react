@@ -1,9 +1,7 @@
-# MarkItDown
-
-MarkItDown is a modern markdown editor web application rebuilt using React. It provides a user-friendly interface for writing, previewing, and formatting markdown content in real-time, with a responsive design suitable for both desktop and mobile users.
+A modern markdown editor web application rebuilt using React. It provides a user-friendly interface for writing, previewing, and formatting markdown content in real-time, with a responsive design suitable for both desktop and mobile users.
 
 ## Demo
-[**Try MarkItDown Live**](https://markitdown-react-i.netlify.app/)
+[**Try it Live**](https://markitdown-react-i.netlify.app/)
 
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot-localhost_5173-2023.01.19-20_36_43.png)
